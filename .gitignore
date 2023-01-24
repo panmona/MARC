@@ -1,3 +1,7 @@
+/**/.idea/*
+/**/bin/*
+/**/obj/*
+
 *.pfx
 CSharp_MARC Editor/bin/
 CSharp_MARC Editor/obj/

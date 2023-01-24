@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>ClassLibrary1</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Resource Include="MARC21slim.xsd">
+        <SubType>Designer</SubType>
+      </Resource>
+    </ItemGroup>
+
+</Project>
